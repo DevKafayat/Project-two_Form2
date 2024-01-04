@@ -46,7 +46,7 @@ font-size: large;
     color: #e5e5e5;
     border: 1px solid #dddcdccc;
     border-radius: 5px;
-    border-bottom-width: 3px;
+    border-bottom-width: 3.5px;
 }
 .terms {
     display: flex;
